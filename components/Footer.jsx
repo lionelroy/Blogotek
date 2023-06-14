@@ -11,7 +11,7 @@ const Footer = () => {
     <div className='container mx-auto px-8'>
       <div className='border-t-2 w-full inline-block border-white w-full mb-2 inline-block py-10'>
         <div className='mt-1 float-left py-1 px-2 bg-teal-500 rounded'>
-            <h4 className='text-white text-white'>© 2021 · BLOGOTEK</h4>         
+            <h4 className='text-white text-white'>© BLOGOTEK</h4>         
         </div>
         <div className='float-right pr-2'>   
           <button onClick={handleClick} target="_blank" rel="noreferrer noopener">   
